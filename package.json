@@ -1,7 +1,7 @@
 {
-	"name": "xstro",
+	"name": "XTRA SHEET",
 	"version": "1.2.3",
-	"description": "A simple WhatsApp bot built by AstroX11.",
+	"description": "A simple WhatsApp bot built by XTRA SHEET.",
 	"main": "index.js",
 	"type": "module",
 	"imports": {
